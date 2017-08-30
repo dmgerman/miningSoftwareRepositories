@@ -6,15 +6,12 @@
 - *Future of Mining Software Archives: A Roundtable* by Michael W. Godfrey
   [[http://plg2.cs.uwaterloo.ca/~migod/papers/2009/IEEE-Software-MSR-rountable.pdf][Link]]
 ** Week 3: _Predicting Bugs_
-- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy \\ 
-  *Analysis Techniques:* Basic linear regression, GLM, R2, model error, exponential decay \\
-  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]]
-- Predictors of customer perceived software quality: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf
-  Audris Mockus, Ping Zhang, and Paul Luo Li
-  Analysis Techniques: Classification, Logistic Regression (Building and Interpreting Co-efficients), R2, model error
-- Predicting Defects for Eclipse: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf
-  Thomas Zimmermann, Rahul Premraj, and Andreas Zeller
-  Analysis Techniques: Using R, Classification, Ranking
+- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]] \\
+  *Analysis Techniques:* Basic linear regression, GLM, R2, model error, exponential decay
+- *Predictors of customer perceived software quality* by Audris Mockus, Ping Zhang, and Paul Luo Li [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf][Link]] \\
+  *Analysis Techniques:* Classification, Logistic Regression (Building and Interpreting Co-efficients), R2, model error
+- *Predicting Defects for Eclipse* by Thomas Zimmermann, Rahul Premraj, and Andreas Zeller [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf][Link]]
+  *Analysis Techniques:* Using R, Classification, Ranking
 - How, and Why, Process Metrics are better: research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/HowAndWhyProcessMetricsAreBetter.pdf
   Foyzur Rahman and Premkumar Devanbu
 - Predicting Bugs from History: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PredictingBugs_EvolutionBook.pdf
