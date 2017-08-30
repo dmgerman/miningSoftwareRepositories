@@ -1,0 +1,29 @@
+* Reading Material
+** Week 1
+- *The Road Ahead for Mining Software Repositories* by Ahmed E. Hassan
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/presentations/MSRTheRoadAhead_ICSM2008_Ahmed_Hassan.pdf][Link]]
+** Week 2
+- *Future of Mining Software Archives: A Roundtable* by Michael W. Godfrey
+  [[http://plg2.cs.uwaterloo.ca/~migod/papers/2009/IEEE-Software-MSR-rountable.pdf][Link]]
+** Week 3: _Predicting Bugs_
+- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy \\ 
+  *Analysis Techniques:* Basic linear regression, GLM, R2, model error, exponential decay \\
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]]
+- Predictors of customer perceived software quality: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf
+  Audris Mockus, Ping Zhang, and Paul Luo Li
+  Analysis Techniques: Classification, Logistic Regression (Building and Interpreting Co-efficients), R2, model error
+- Predicting Defects for Eclipse: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf
+  Thomas Zimmermann, Rahul Premraj, and Andreas Zeller
+  Analysis Techniques: Using R, Classification, Ranking
+- How, and Why, Process Metrics are better: research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/HowAndWhyProcessMetricsAreBetter.pdf
+  Foyzur Rahman and Premkumar Devanbu
+- Predicting Bugs from History: http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PredictingBugs_EvolutionBook.pdf
+  Thomas Zimmermann, Nachiappan Nagappan, and Andreas Zeller
+** Week 4
+** Week 5
+** Week 6
+** Week 7
+** Week 8
+** Week 9
+** Week 10
+** Week 11
