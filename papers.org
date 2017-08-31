@@ -5,27 +5,27 @@
 ** Week 2
 - *Future of Mining Software Archives: A Roundtable* by Michael W. Godfrey
   [[http://plg2.cs.uwaterloo.ca/~migod/papers/2009/IEEE-Software-MSR-rountable.pdf][Link]]
-** Week 3: _Predicting Bugs_
-- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]] \\
+** Week 3: Predicting Bugs
+- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Basic linear regression, GLM, R2, model error, exponential decay
-- *Predictors of customer perceived software quality* by Audris Mockus, Ping Zhang, and Paul Luo Li [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf][Link]] \\
+- *Predictors of customer perceived software quality* by Audris Mockus, Ping Zhang, and Paul Luo Li [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Classification, Logistic Regression (Building and Interpreting Co-efficients), R2, model error
-- *Predicting Defects for Eclipse* by Thomas Zimmermann, Rahul Premraj, and Andreas Zeller [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf][Link]] \\
+- *Predicting Defects for Eclipse* by Thomas Zimmermann, Rahul Premraj, and Andreas Zeller [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Using R, Classification, Ranking
 - *How, and Why, Process Metrics are better* by Foyzur Rahman and Premkumar Devanbu  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/HowAndWhyProcessMetricsAreBetter.pdf][Link]]
 - *Predicting Bugs from History* by Thomas Zimmermann, Nachiappan Nagappan, and Andreas Zeller [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PredictingBugs_EvolutionBook.pdf][Link]]
 ** Week 4: Mining Social Structures and Code Reviews
-- *Will My Patch Make it? and How Fast?: Case Study on the Linux Kernel* by Yujuan Jiang, Bram Adams, Daniel M. German  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/LinuxPatch_MSR2013.pdf][Link]] \\
+- *Will My Patch Make it? and How Fast?: Case Study on the Linux Kernel* by Yujuan Jiang, Bram Adams, Daniel M. German  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/LinuxPatch_MSR2013.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Decision Tree
 - *On the Role of Developer's Scattered Changes in Bug Prediction* by Dario Di Nucci, Fabio Palomba, Sandro Siravo, Gabriele Bavota, Rocco Oliveto, and Andrea De Lucia  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/OnTheRoleOfDeveloperScatteredChangesIn%20BugPrediction.pdf][Link]]
-- *An Empirical Study of the Impact of Modern Code Review Practices on Software Quality* by Shane McIntosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan   [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/AnEmpiricalStudyOfTheImpactOfModern%20CodeReviewPracticesOnSoftwareQuality.pdf][Link]] \\
+- *An Empirical Study of the Impact of Modern Code Review Practices on Software Quality* by Shane McIntosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan   [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/AnEmpiricalStudyOfTheImpactOfModern%20CodeReviewPracticesOnSoftwareQuality.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Bootstrap validation
 - *Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista* by Christian Bird, Nachiappan Nagappan, Premkumar Devanbu, Harald Gall, and Brendan Murphy  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/DistributedDevelopment_CACM2009.pdf][Link]]
 ** Week 5
 ** Week 6: Mining Unstructured Data
-- *Creating and Evolving Developer Documentation: Understanding the Decisions of Open Source Contributors* by Barthelemy Dagenais and Martin P. Robillard [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Documentation_FSE2010.pdf][Link]] \\
+- *Creating and Evolving Developer Documentation: Understanding the Decisions of Open Source Contributors* by Barthelemy Dagenais and Martin P. Robillard [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Documentation_FSE2010.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Grounded Theory
-- *Semantic clustering: Identifying topics in source code* by Adrian Kuhn, Stephane Ducasse, and Tudor Girba [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/SemanticClustering_IST2007.pdf][Link]] \\
+- *Semantic clustering: Identifying topics in source code* by Adrian Kuhn, Stephane Ducasse, and Tudor Girba [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/SemanticClustering_IST2007.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* LDA, LSI
 - *Listening to programmers Taxonomies and characteristics of comments in operating system code* by Yoann Padioleau, Lin Tan, Yuanyuan Zhou [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Comments_ICSE2009.pdf][Link]]
 - *Identifying reasons for software change using historic databases* by Audris Mockus and Larry G. Votta  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/ReasonforChange_ICSM2000.pdf][Link]]
@@ -40,7 +40,7 @@
 - *Improving Software Diagnosability via Log Enhancement* by Ding Yuan, Jing Zheng, Soyeon Park, Yuanyuan Zhou, and Stefan Savage [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/LogEnhancer_ASPLOS2011.pdf][Link]]
 - *The Promises and Perils of Mining Github* by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. German, Daniela Damian [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/MiningGitHub_MSR2014.pdf][Link]]
 - *Towards Building a Universal Defect Prediction Model* by Feng Zhang, Audris Mockus, Iman Keivanloo, Ying Zou [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/UniversalModel_MSR2014.pdf][Link]]
-- *Bugs as deviant behavior: A general approach to inferring errors in systems code* by Dawson Engler, David Yu Chen, Seth Hallem, Andy Chou, and Benjamin Chelf [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/BugsAsDeviantBehavior_SOSP2001.pdf][Link]] \\
+- *Bugs as deviant behavior: A general approach to inferring errors in systems code* by Dawson Engler, David Yu Chen, Seth Hallem, Andy Chou, and Benjamin Chelf [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/BugsAsDeviantBehavior_SOSP2001.pdf][Link]] @@html:<br>@@
   *Analysis Techniques:* Markov Models
 - *Scalable statistical bug isolation* by Ben Liblit, Mayur Naik, Alice X. Zheng, Alex Aiken, and Michael I. Jordan  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/ScalableBugs_PLDI2005.pdf][Link]]
 ** Week 11: Large-Scale Analysis II
