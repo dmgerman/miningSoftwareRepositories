@@ -1,0 +1,130 @@
+* Reading Material
+** Week 1
+- *The Road Ahead for Mining Software Repositories* by Ahmed E. Hassan
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/presentations/MSRTheRoadAhead_ICSM2008_Ahmed_Hassan.pdf][Link]]
+** Week 2
+- *Future of Mining Software Archives: A Roundtable* by Michael W. Godfrey
+  @@html:<br>@@
+  [[http://plg2.cs.uwaterloo.ca/~migod/papers/2009/IEEE-Software-MSR-rountable.pdf][Link]]
+** Week 3: Predicting Bugs
+- *Predicting fault incidence using software change history* by Todd L. Graves, Alan F. Karr, J. S. Marron, and Harvey P. Siy
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/FaultIncidence_TSE2000.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Basic linear regression, GLM, R2, model error, exponential decay
+- *Predictors of customer perceived software quality* by Audris Mockus, Ping Zhang, and Paul Luo Li
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PerceivedQuality_ICSE2005.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Classification, Logistic Regression (Building and Interpreting Co-efficients), R2, model error
+- *Predicting Defects for Eclipse* by Thomas Zimmermann, Rahul Premraj, and Andreas Zeller
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/promise2007-dataset-20a.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Using R, Classification, Ranking
+- *How, and Why, Process Metrics are better* by Foyzur Rahman and Premkumar Devanbu
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/HowAndWhyProcessMetricsAreBetter.pdf][Link]]
+  @@html:<br>@@
+- *Predicting Bugs from History* by Thomas Zimmermann, Nachiappan Nagappan, and Andreas Zeller
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/PredictingBugs_EvolutionBook.pdf][Link]]
+  @@html:<br>@@
+** Week 4: Mining Social Structures and Code Reviews
+- *Will My Patch Make it? and How Fast?: Case Study on the Linux Kernel* by Yujuan Jiang, Bram Adams, Daniel M. German
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/LinuxPatch_MSR2013.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Decision Tree
+- *On the Role of Developer's Scattered Changes in Bug Prediction* by Dario Di Nucci, Fabio Palomba, Sandro Siravo, Gabriele Bavota, Rocco Oliveto, and Andrea De Lucia
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/OnTheRoleOfDeveloperScatteredChangesIn%20BugPrediction.pdf][Link]]
+  @@html:<br>@@
+- *An Empirical Study of the Impact of Modern Code Review Practices on Software Quality* by Shane McIntosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/AnEmpiricalStudyOfTheImpactOfModern%20CodeReviewPracticesOnSoftwareQuality.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Bootstrap validation
+- *Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista* by Christian Bird, Nachiappan Nagappan, Premkumar Devanbu, Harald Gall, and Brendan Murphy
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/DistributedDevelopment_CACM2009.pdf][Link]]
+  @@html:<br>@@
+** Week 5
+** Week 6: Mining Unstructured Data
+- *Creating and Evolving Developer Documentation: Understanding the Decisions of Open Source Contributors* by Barthelemy Dagenais and Martin P. Robillard
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Documentation_FSE2010.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Grounded Theory
+- *Semantic clustering: Identifying topics in source code* by Adrian Kuhn, Stephane Ducasse, and Tudor Girba
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/SemanticClustering_IST2007.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* LDA, LSI
+- *Listening to programmers Taxonomies and characteristics of comments in operating system code* by Yoann Padioleau, Lin Tan, Yuanyuan Zhou
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Comments_ICSE2009.pdf][Link]]
+  @@html:<br>@@
+- *Identifying reasons for software change using historic databases* by Audris Mockus and Larry G. Votta
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/ReasonforChange_ICSM2000.pdf][Link]]
+  @@html:<br>@@
+** Week 7
+** Week 8
+** Week 9: Mining Mobile Apps
+- *A Measurement Study of Google Play* by Nicolas Viennot, Edward Garcia, Jason Nieh
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/GooglePlay_METRICS2014.pdf][Link]]
+  @@html:<br>@@
+- *API Change and Fault Proneness: a Threat to the Success of Android Apps* by Mario Linares Vasquez, Gabriele Bavota, Carlos Bernal-Cardenas, Massimiliano Di Penta, Rocco Oliveto, Denys Poshyvanyk
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/APIApps_FSE2013.pdf][Link]]
+  @@html:<br>@@
+- *Software Analytics for Mobile Applications - Insights & Lessons Learned* by Roberto Minelli, Michele Lanza
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/MobileAnalytics_CMSR2013.pdf][Link]]
+  @@html:<br>@@
+- *Visual Analytics in Software Maintenance: Challenges and Opportunities* by Alex Telea and and Ozan Ersoy and Lucian Voinea
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/VisualAnalystics%20_EuroVAST2010.pdf][Link]]
+  @@html:<br>@@
+** Week 10: Large-Scale Analysis I
+- *Improving Software Diagnosability via Log Enhancement* by Ding Yuan, Jing Zheng, Soyeon Park, Yuanyuan Zhou, and Stefan Savage
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/LogEnhancer_ASPLOS2011.pdf][Link]]
+  @@html:<br>@@
+- *The Promises and Perils of Mining Github* by Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. German, Daniela Damian
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/MiningGitHub_MSR2014.pdf][Link]]
+  @@html:<br>@@
+- *Towards Building a Universal Defect Prediction Model* by Feng Zhang, Audris Mockus, Iman Keivanloo, Ying Zou
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/UniversalModel_MSR2014.pdf][Link]]
+  @@html:<br>@@
+- *Bugs as deviant behavior: A general approach to inferring errors in systems code* by Dawson Engler, David Yu Chen, Seth Hallem, Andy Chou, and Benjamin Chelf
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/BugsAsDeviantBehavior_SOSP2001.pdf][Link]]
+  @@html:<br>@@
+  *Analysis Techniques:* Markov Models
+- *Scalable statistical bug isolation* by Ben Liblit, Mayur Naik, Alice X. Zheng, Alex Aiken, and Michael I. Jordan
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/ScalableBugs_PLDI2005.pdf][Link]]
+  @@html:<br>@@
+** Week 11: Large-Scale Analysis II
+- *Capturing, indexing, clustering, and retrieving system history* by Ira Cohen, Steve Zhang, Moises Goldszmidt, Julie Symons, Terence Kelly, and Armando Fox
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/CapturingIndexing_SOSP2005.pdf][Link]]
+  @@html:<br>@@
+- *vPerfGuard: an Automated Model-Driven Framework for Application Performance Diagnosis in Consolidated Cloud Environment* by Pengcheng Xiong, Calton Pu, Xiaoyun Zhu, and Rean Griffith
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/VMWARE_ICPE2013.pdf][Link]]
+  @@html:<br>@@
+- *Performance Debugging in the Large via Mining Millions of Stack Traces* by Shi Han, Yingnong Dang, Song Ge, Dongmei Zhang, and Tao Xie
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/StackMine_ICSE2012.pdf][Link]]
+  @@html:<br>@@
+- *Amassing and indexing a large sample of version control systems: towards the census of public source code history* by Audris Mockus
+  @@html:<br>@@
+  [[http://research.cs.queensu.ca/~ahmed/home/teaching/CISC880/F16/papers/Amassing_MSR2009.pdf][Link]]
+  @@html:<br>@@
