@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    logger (1.2.8)
+    logger-colors (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  logger
+  logger-colors
+
+BUNDLED WITH
+   1.14.5
