@@ -1,3 +1,161 @@
+
+* Students                                                            :crypt:
+-----BEGIN PGP MESSAGE-----
+
+hQEMA7UCIcJGxmcFAQgAk8Z9uExy8LkLBT6Ox2kUxhU55PrEsshqpR9W3fnaHP/x
+6OfN+Ks6GZbFW3GsnwJaZJVKyBEDpk+zz2o1R1G5NaEJ4JYn3T5+Z3SUNu/r2FBK
+SZEyCzHNX4S/hrf+lm3j34DbU0S3eYY/zQErKulw+qQrzyvP5UdmPIpfmjtHP8Uy
+odO5xqI4EyvAeCQVcm8DkoXo9u3HsOMLpOynVRJvZjDZS3QcJlQjsssgxJgmP3NT
+GnwC3GB/SwH0Q9CbE2zjvEbzxzgD/pJg9Cob3EzCC4Kd0j02FzKbDz8xcsfIw4Ai
+GpYSCFCBI8RfuQO4/azvanXNzyRAm5LgGjqzGkRmbNLA0QFQbNCu7Yrhcl7Ye8WZ
+gVQCheQmgN6PfyXWGXbPYGeJmhf1sgEamPz2pULk9xTqxJbJCDtYbxocAegCQ/Zv
+UojO50whBO78i0q1fnNFtCGWJqjNXLYM11vcAcoZIJeHN2SP4QuFEi1qpUJhabiY
+RiJCET17uTYlLmmZQA32X5qIwZPqCBysLuVaB1+WYyEzTIBE8TRhRHcHQ8iVc604
+ZsIQETVFGG1DfPi75uxBMPobsaisPMEM8GAUMxGhwGSOXRKXaY1jc4+IkXmM7awa
+8nEkA5AMo1kUk5csQAY+n4mow0xQ3q3U9m0VJi2Epu763qf21Fq7PM1B2qEw+dlJ
+CY5jG1es8dWQeopa46S5JuRNGcTQxwhL8DqXmNSUYeGRL1Yqxdoblx3zBnodVECa
+78Uh0KVQXmtbAdVYHVfrBUGFc6i49I8lU2JmUd+F5iK4TsHIhsLJdUEmnVjoHSvJ
+vrlFJI0Rse4CbuGCnIARK1MBWckFaxATlPWyIHwaeM+/3qGTZujoAujjEw82dGZA
+sMsu
+=47qb
+-----END PGP MESSAGE-----
+
+* Schedule 
+
+#+BEGIN_EXAMPLE
+September 2017      
+
+Su Mo Tu We Th Fr Sa    
+                8     MSR Intro
+      12       15     MSR Tutorial
+      19       22     MSR tutorial/Papers 1
+      26       29     Papers 2/Papers 3
+
+October 2017       
+Su Mo Tu We Th Fr Sa   
+       3        6     Papers 4/Papers 5
+      10       13     Assignment #1 results
+      17       20     papers 6/papers 7
+      24       27     Proposal presentations
+      31        3     papers 8/papers 9
+                            
+November 2017        
+       7       10     papers 10/papers 11
+      14       17     Reading break (I am away)
+      21       24     Assignment #2 results/papers 12
+      28        1     Project Presentations
+#+END_EXAMPLE
+
+- Only one critique presentation per week.
+- At most two papers are marked for critique each week. 1/2 the class will be assigned to each
+
+* Schedule
+
+| 1. Bug prediction                      | <2017-09-22 Fri> |
+| 2. Bug prediction                      | <2017-09-26 Tue> |
+| 3. Code reviews                        | <2017-09-29 Fri> |
+| 4. Social structures                   | <2017-10-03 Tue> |
+| 5. Unstructured data                   | <2017-10-06 Fri> |
+| 6. Large scala analysis                | <2017-10-17 Tue> |
+| 7. Mining version control              | <2017-10-20 Fri> |
+| 8. Co-chance                           | <2017-10-31 Tue> |
+| 9. CI and Energy                       | <2017-11-03 Fri> |
+| 10. Monitoring developers              | <2017-11-07 Tue> |
+| 11. Programming languages and language | <2017-11-10 Fri> |
+| 12. Licensing and Provenance           | <2017-11-24 Fri> |
+
+* By week
+
+1. Bug prediction 1
+
+2. Bug prediction 2
+
+3. Code reviews <2017-09-29 Fri>
+
+An Empirical Study of the Impact of Modern Code Review Practices on Software Quality 
+Shane McIntosh, Yasutaka Kamei, Bram Adams, and Ahmed E. Hassan 
+
+(critique/presentation) Investigating technical and non-technical factors influencing modern code review
+Olga Baysal, Oleksii Kononenko, Reid Holmes and Michael W. Godfrey
+
+4. Social structures <2017-10-03 Tue>
+
+On the Role of Developer's Scattered Changes in Bug Prediction 
+Dario Di Nucci, Fabio Palomba, Sandro Siravo, Gabriele Bavota, Rocco Oliveto, and Andrea De Lucia
+
+(critique/presentation) Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista 
+Christian Bird, Nachiappan Nagappan, Premkumar Devanbu, Harald Gall, and Brendan Murphy
+
+5. Unstructured data + <2017-10-06 Fri>
+
+(critique/presentation) Listening to programmers Taxonomies and characteristics of comments in operating system code 
+Yoann Padioleau, Lin Tan, Yuanyuan Zhou
+
+Identifying reasons for software change using historic databases. 
+Audris Mockus and Larry G. Votta
+
+6. Large scala analysis <2017-10-17 Tue>
+
+Scalable statistical bug isolation 
+Ben Liblit, Mayur Naik, Alice X. Zheng, Alex Aiken, and Michael I. Jordan
+
+(critique/presentation) Towards Building a Universal Defect Prediction Model 
+Feng Zhang, Audris Mockus, Iman Keivanloo, Ying Zou: Towards building a universal defect prediction model.
+
+7. Mining version control  <2017-10-20 Fri>
+
+(critique/presentation) Amassing and indexing a large sample of version control systems: towards the census of public source code history 
+Audris Mockus
+
+The Promises and Perils of Mining Github 
+Eirini Kalliamvakou, Georgios Gousios, Kelly Blincoe, Leif Singer, Daniel M. German, Daniela Damian
+
+8. Co-chance <2017-10-31 Tue>
+
+(critique/presentation) Developer-related factors in change prediction: an empirical assessment
+Gemma Catolino, Fabio Palomba, Andrea De Lucia, Filomena Ferrucci, Andy
+
+Automatic classication of large changes into maintenance categories.
+Hindle A, German D, Godfrey M, Holt R (2009)  
+Program comprehension, 2009. ICPC ’09. 17th International Conference on IEEE, pp. 30–39
+
+9. CI and Energy  <2017-11-03 Fri>
+
+(critique/presentation) Oops, my tests broke the build: an explorative analysis of Travis CI with GitHub
+Beller, Moritz & Gousios, Georgios & Zaidman, And
+
+Green mining: a methodology of relating software change and configuration to power consumption
+Abram Hindle
+
+10. Monitoring developers  <2017-11-07 Tue>
+
+(critique/presentation) When, how, and why developers (do not) test in their IDEs
+Moritz Beller, Georgios Gousios, Annibale Panichella, Andy Zaidman
+
+An empirical study of the effect of file editing patterns on software quality
+Feng Zhang, Foutse Khomh, Ying Zou, Ahmed E. Hassan:
+
+11. Programming languages and language  <2017-11-10 Fri>
+
+On the naturalness of software
+A. Hindle, E. T. Barr, Z. Su, M. Gabel, and P. Devanbu
+
+(critique/presentation) Mining billions of AST nodes to study actual and potential usage of Java language features.
+Robert Dyer, Hridesh Rajan, Hoan Anh Nguyen, Tien N. Nguyen:
+
+12. Licensing and Provenance <2017-11-24 Fri>
+
+Christopher Vendome, Gabriele Bavota, Massimiliano Di Penta, Mario Linares Vásquez, Daniel M. Germán, Denys Poshyvanyk:
+License usage and changes: a large-scale study on gitHub. Empirical Software Engineering 22(3): 1537-1577 (2017)
+
+Julius Davies, Daniel M. Germán, Michael W. Godfrey, Abram Hindle:
+Software Bertillonage - Determining the provenance of software development artifacts. Empirical Software Engineering 18(6): 1195-1237 (2013)
+
+
+
+
+
+
 * Reading Material
 ** Week 1
 - *The Road Ahead for Mining Software Repositories* by Ahmed E. Hassan
