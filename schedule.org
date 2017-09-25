@@ -14,8 +14,8 @@
 
 * :TOC:
 - [[#students][Students]]
-- [[#schedule][Schedule]]
-- [[#schedule-1][Schedule]]
+- [[#calendar][Calendar]]
+- [[#schedule-summary][Schedule Summary]]
 - [[#by-week][By week]]
 - [[#reading-material-outdated][Reading Material (outdated)]]
   - [[#week-1][Week 1]]
@@ -51,7 +51,24 @@ sMsu
 =47qb
 -----END PGP MESSAGE-----
 
-* Schedule 
+Under
+
+Aljaser, Mond
+Bulmer, Tyson	
+Psotka, Simon	
+Sharma, Diksha
+Steel, Alex
+
+Grad
+
+Alrashedy, Kamel
+Dharmaretnam, Dhanush
+Diaz Gimeno, Vanessa Diaz
+Lakhani, Aazim
+Mashkanova, Aigerim
+Xu, Ed
+
+* Calendar
 
 #+BEGIN_EXAMPLE
 September 2017      
@@ -80,20 +97,21 @@ November 2017
 - Only one critique presentation per week.
 - At most two papers are marked for critique each week. 1/2 the class will be assigned to each
 
-* Schedule
+* Schedule Summary
 
-| 1. Bug prediction                      | <2017-09-22 Fri> |
-| 2. Bug prediction                      | <2017-09-26 Tue> |
-| 3. Code reviews                        | <2017-09-29 Fri> |
-| 4. Social structures                   | <2017-10-03 Tue> |
-| 5. Unstructured data                   | <2017-10-06 Fri> |
-| 6. Large scala analysis                | <2017-10-17 Tue> |
-| 7. Mining version control              | <2017-10-20 Fri> |
-| 8. Co-chance                           | <2017-10-31 Tue> |
-| 9. CI and Energy                       | <2017-11-03 Fri> |
-| 10. Monitoring developers              | <2017-11-07 Tue> |
-| 11. Programming languages and language | <2017-11-10 Fri> |
-| 12. Licensing and Provenance           | <2017-11-24 Fri> |
+| 1. Bug prediction                      | <2017-09-22 Fri> |         |
+| 2. Bug prediction                      | <2017-09-26 Tue> |         |
+| 3. Code reviews                        | <2017-09-29 Fri> | Ed      |
+| 4. Social structures                   | <2017-10-03 Tue> | Aigerim |
+| 5. Unstructured data                   | <2017-10-06 Fri> | Vanessa |
+| 6. Large scala analysis                | <2017-10-17 Tue> | Simon   |
+| 7. Mining version control              | <2017-10-20 Fri> | Kamel   |
+| 8. Co-chance                           | <2017-10-31 Tue> |         |
+| 9. CI and Energy                       | <2017-11-03 Fri> | Mond    |
+| 10. Monitoring developers              | <2017-11-07 Tue> | Dhanush |
+| 11. Programming languages and language | <2017-11-10 Fri> | Alex    |
+| 12. Licensing and Provenance           | <2017-11-24 Fri> |         |
+
 
 * By week
 
