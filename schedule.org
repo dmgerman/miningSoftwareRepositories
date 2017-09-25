@@ -1,3 +1,34 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS:
+#+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
+#+DRAWERS: HIDDEN STATE
+#+TITLE: MSR course
+#+CATEGORY: 
+#+PROPERTY: header-args:sql             :engine postgresql  :exports both :cmdline csc370
+#+PROPERTY: header-args:sqlite          :db /path/to/db  :colnames yes
+#+PROPERTY: header-args:C++             :results output :flags -std=c++14 -Wall --pedantic -Werror
+#+PROPERTY: header-args:R               :results output  :colnames yes
+#+OPTIONS: ^:nil
+
+
+* :TOC:
+- [[#students][Students]]
+- [[#schedule][Schedule]]
+- [[#schedule-1][Schedule]]
+- [[#by-week][By week]]
+- [[#reading-material-outdated][Reading Material (outdated)]]
+  - [[#week-1][Week 1]]
+  - [[#week-2][Week 2]]
+  - [[#week-3-predicting-bugs][Week 3: Predicting Bugs]]
+  - [[#week-4-mining-social-structures-and-code-reviews][Week 4: Mining Social Structures and Code Reviews]]
+  - [[#week-5][Week 5]]
+  - [[#week-6-mining-unstructured-data][Week 6: Mining Unstructured Data]]
+  - [[#week-7][Week 7]]
+  - [[#week-8][Week 8]]
+  - [[#week-9-mining-mobile-apps][Week 9: Mining Mobile Apps]]
+  - [[#week-10-large-scale-analysis-i][Week 10: Large-Scale Analysis I]]
+  - [[#week-11-large-scale-analysis-ii][Week 11: Large-Scale Analysis II]]
 
 * Students                                                            :crypt:
 -----BEGIN PGP MESSAGE-----
@@ -156,7 +187,7 @@ Software Bertillonage - Determining the provenance of software development artif
 
 
 
-* Reading Material
+* Reading Material (outdated)
 ** Week 1
 - *The Road Ahead for Mining Software Repositories* by Ahmed E. Hassan
   @@html:<br>@@
